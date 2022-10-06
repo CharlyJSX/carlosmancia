@@ -1,7 +1,7 @@
 # carlosmancia.github.io
 My Web Page
 
-Enlace: https://charlyjsx.github.io/carlosmancia/
+Link: https://charlyjsx.github.io/carlosmancia/
 
 ![ReadMe1](https://user-images.githubusercontent.com/77645310/189399424-8939ff0f-65e7-4f20-bd41-e716dde3905d.PNG)
 ![ReadMe2](https://user-images.githubusercontent.com/77645310/189399441-71391147-f21c-4ad9-b425-43587c22ff4b.PNG)
