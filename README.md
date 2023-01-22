@@ -8,7 +8,7 @@ Link: https://charlyjsx.github.io/carlosmancia/
 ![ReadMe3](https://user-images.githubusercontent.com/77645310/189399467-8d03c0e2-8f58-44a4-9c0b-bc50e1ffdd46.PNG)
 ![ReadMe4](https://user-images.githubusercontent.com/77645310/189399497-f908db05-25da-4253-907b-bfe04371c72e.PNG)
 ![ReadMe5](https://user-images.githubusercontent.com/77645310/189399538-d0385572-bb22-40ea-80df-8022f7717144.PNG)
-![CV Carlos Mancía - Front-End Developer](https://user-images.githubusercontent.com/77645310/200632071-5de1d89a-d6a6-442f-8097-1d059e38dcbd.png)
+![CV](https://user-images.githubusercontent.com/77645310/213926596-2c96c2ce-fa85-488d-a0c7-a9c9e360f657.png)
 ![Front-End1](https://user-images.githubusercontent.com/77645310/200632727-23ebae3b-52e1-4cd6-aab7-abbbe2cd8bc5.png)
 ![Front-End2](https://user-images.githubusercontent.com/77645310/200632752-5158adde-ecff-42bd-8167-86edfe37a4df.png)
 ![Ciencia de Datos](https://user-images.githubusercontent.com/77645310/189399793-f7b28b13-8b23-4e40-910b-1a04502502c2.PNG)
